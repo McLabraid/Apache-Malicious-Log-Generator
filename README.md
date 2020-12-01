@@ -87,4 +87,5 @@ The following section will detail any future work planned for this tool.
 - Addition of more attacks.
 - addition to checks for attack textfiles and to pull said textfiles from this repository if they are not found.
 
-_**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read here.**_
+_**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
+[Apache Malicious Log Generator](https://www.researchgate.net/publication/346516225_Apache_Malicious_Log_Generator)
