@@ -89,4 +89,4 @@ The following section will detail any future work planned for this tool.
 - Further fleshing out of Slowloris/R.U.D.Y attack patterns to give a more realistic attack style
 - Addition of text files related to directories being generated within the tool to match up similiarly to directories within application based attacks(Oversight during the creation of the thesis).
 - Addition of more attacks.
-- addition to checks for attack text files and to pull said text files from this repository, if they are not found.
+- Addition to checks for attack text files and to pull said text files from this repository, if they are not found.
