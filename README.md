@@ -5,7 +5,7 @@ This project was completed through the use of Python 3.x and relative libraries 
 
 _**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
 
-[Apache Malicious Log Generator](https://www.researchgate.net/publication/346516225_Apache_Malicious_Log_Generator)
+[Apache Malicious Log Generator](https://www.researchgate.net/publication/346518328_Apache_Malicious_Log_Generator)
 
 ## Requirements
 This tool being a Python 3.x based tool, the following libraries are required in the running of this tool. 
