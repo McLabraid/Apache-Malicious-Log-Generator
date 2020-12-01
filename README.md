@@ -30,7 +30,7 @@ The next two images will describe how to use the GUI interface.
 4. Textbox to inform the user of any errors in the creation of a log file, or of just the creation of said log file.
 5. An "Other Option" section to allow in the specification of how the access.log file is created (this is explored further in the next section). 
 6. Begins the generation of the access.log file(this relying on if all the parameters are inputted correctly)
-7. Opens the folder in which all the previously created log files are stored 
+7. Opens the folder in which all the previously created log files are stored(this folder being generated upon the creation of the first log file).
 8. Allows up to 6 different types of attacks to be selected. 
 
 ![Other Settings](https://github.com/McLabraid/Apache-Malicious-Log-Generator/blob/main/Images/Other.png)
