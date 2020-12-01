@@ -1,4 +1,4 @@
-# Apache-Malicious-Traffic-Generator
+# Apache-Malicious-Log-Generator
 A Python Based GUI Tool for creating synthetic apache styled logs, both replicating standard traffic and malicious traffic that may take place within an Apache access.log.
 This tool may be used for creating access.log files for training of Machine learning algorithm in catching attacks that may take place, whilst also providing standard traffic as to create a realistic dataset to compare the attacks against and add a depth of realism.
 This project was completed through the use of Python 3.x and relative libraries within the language, which will be detailed further within the Readme, and found within the requirements.txt file. 
