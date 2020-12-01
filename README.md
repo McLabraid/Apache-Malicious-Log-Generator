@@ -3,7 +3,7 @@ A Python Based GUI Tool for creating synthetic apache styled logs, both replicat
 This tool may be used for creating access.log files for training of Machine learning algorithm in catching attacks that may take place, whilst also providing standard traffic as to create a realistic dataset to compare the attacks against and add a depth of realism.
 This project was completed through the use of Python 3.x and relative libraries within the language, which will be detailed further within the Readme, and found within the requirements.txt file. 
 
-_**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
+_**This tool was created for my Bachelor of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
 
 [Apache Malicious Log Generator](https://www.researchgate.net/publication/346518328_Apache_Malicious_Log_Generator)
 
@@ -52,8 +52,8 @@ The Traffic that is being generated with this tool is split up into two types, t
 ### Standard Traffic
 Standard traffic can be toggled within the tool to act as traffic on the application.
 
-### Malicous Traffic
-Malicious traffic can be seperated into three different types, these being:
+### Malicious Traffic
+Malicious traffic can be separated into three different types, these being:
 
 **Denial of Service**
 
@@ -74,19 +74,19 @@ he DDoS attacks being replicated being:
 **Application Side Attacks**
 
 This traffic replicating logs based on attacks take may take place on an Apache Web Application, Each wordlist of attacks being cited alongside the attack type.
-he Application Side Attacks attacks being replicated being:
+The Application Side Attacks attacks being replicated being:
 - SQL Injection - Wordlist provided by [Payloadbox's SQL Payload list](https://github.com/payloadbox/sql-injection-payload-list).
 - Cross Site Scripting - Wordlist Provided by [Kurobeat's  XSS_Vector.txt](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
 - Directory Transversal Attack - Wordlist provided by [VulnerabilityLabs Ultimate Directory Traversal & Path Traversal Cheat Sheet](https://www.vulnerability-lab.com/resources/documents/587.txt)
 
 
-These textfiles can be found within the /Text/ Directory and allows the user to add to these textfiles.
+These text files can be found within the /Text/ Directory and allows the user to add to these text files.
 
 ## Future Work
 
 The following section will detail any future work planned for this tool.
 
 - Further fleshing out of Slowloris/R.U.D.Y attack patterns to give a more realistic attack style
-- Addition of textfiles related to directories being generated within the tool to match up similiarly to directories within application based attacks(Oversight during the creation of the thesis).
+- Addition of text files related to directories being generated within the tool to match up similiarly to directories within application based attacks(Oversight during the creation of the thesis).
 - Addition of more attacks.
-- addition to checks for attack textfiles and to pull said textfiles from this repository if they are not found.
+- addition to checks for attack text files and to pull said text files from this repository if they are not found.
