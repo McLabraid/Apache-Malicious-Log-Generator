@@ -3,6 +3,10 @@ A Python Based GUI Tool for creating synthetic apache styled logs, both replicat
 This tool may be used for creating access.log files for training of Machine learning algorithm in catching attacks that may take place, whilst also providing standard traffic as to create allow for a realistic dataset to compare the attacks against and add a depth of realism
 This project was completed through the use of Python 3.x and relative libraries within the language, which will be detailed further within the Readme, and found within the requirements.txt file. 
 
+_**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
+
+[Apache Malicious Log Generator](https://www.researchgate.net/publication/346516225_Apache_Malicious_Log_Generator)
+
 ## Requirements
 This tool being a Python 3.x based tool, the following libraries are required in the running of this tool. 
 
@@ -86,7 +90,3 @@ The following section will detail any future work planned for this tool.
 - Addition of textfiles related to directories being generated within the tool to match up similiarly to directories within application based attacks(Oversight during the creation of the thesis).
 - Addition of more attacks.
 - addition to checks for attack textfiles and to pull said textfiles from this repository if they are not found.
-
-_**This tool was created for my Bachalors of Science(Honours) Degree at the Technological University of Dublin, of which the paper can be read below.**_
-
-[Apache Malicious Log Generator](https://www.researchgate.net/publication/346516225_Apache_Malicious_Log_Generator)
