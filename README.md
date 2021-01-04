@@ -74,7 +74,7 @@ he DDoS attacks being replicated being:
 **Application Side Attacks**
 
 This traffic replicating logs based on attacks take may take place on an Apache Web Application, Each wordlist of attacks being cited alongside the attack type.
-The Application Side Attacks attacks being replicated being:
+The Application Side Attacks being replicated being:
 - SQL Injection - Wordlist provided by [Payloadbox's SQL Payload list](https://github.com/payloadbox/sql-injection-payload-list).
 - Cross Site Scripting - Wordlist Provided by [Kurobeat's  XSS_Vector.txt](https://gist.github.com/kurobeats/9a613c9ab68914312cbb415134795b45)
 - Directory Transversal Attack - Wordlist provided by [VulnerabilityLabs Ultimate Directory Traversal & Path Traversal Cheat Sheet](https://www.vulnerability-lab.com/resources/documents/587.txt)
