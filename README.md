@@ -12,6 +12,7 @@ This tool being a Python 3.x based tool, the following libraries are required in
 
 - fake-useragent==0.1.11
 - Faker==4.0.2
+- tk==3.9.5
 
 These libraries are also listed within the requirements.txt and can be easily downloaded with the command.
 ```
