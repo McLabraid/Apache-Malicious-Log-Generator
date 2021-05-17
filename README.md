@@ -9,10 +9,15 @@ _**This tool was created for my Bachelor of Science(Honours) Degree at the Techn
 
 ## Requirements
 This tool being a Python 3.x based tool, the following libraries are required in the running of this tool. 
+Tkinter requires an install, manually enter:
+Linux: Sudo apt-get install python-tk
+
+On other OS systems, use this resource:
+https://tkdocs.com/tutorial/install.html
+
 
 - fake-useragent==0.1.11
 - Faker==4.0.2
-- tk==3.9.5
 
 These libraries are also listed within the requirements.txt and can be easily downloaded with the command.
 ```
