@@ -96,3 +96,4 @@ The following section will detail any future work planned for this tool.
 - Addition of text files related to directories being generated within the tool to match up similiarly to directories within application based attacks(Oversight during the creation of the thesis).
 - Addition of more attacks.
 - Addition to checks for attack text files and to pull said text files from this repository, if they are not found.
+- To deliver a version that can be ran through command line (without UI)
